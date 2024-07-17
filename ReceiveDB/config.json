@@ -1,0 +1,6 @@
+{
+    "fields": ["supplier", "part_number", "date", "inspector"],
+    "inspectors": ["Brody Robertson", "Nick Bazemore", "Caleb Mock"],
+    "pin_number": "0759",
+    "dark_mode": true
+}
